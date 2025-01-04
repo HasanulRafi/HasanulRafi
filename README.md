@@ -21,7 +21,7 @@ const aboutMe = {
 ```
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Numbers:
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanulRafi&theme=dark&hide_border=true" style="margin-right: 10px;">
