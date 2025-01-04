@@ -14,7 +14,6 @@ const aboutMe = {
     workingOn: 'Actively Interviewing',
     learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
-        linkedin: 'https://www.linkedin.com/in/mohammed-hasanul-chowdhury',
         email: 'hasanulchowdhuryrafi@gmail.com',
         phone: '+1-929-732-0862'
     }
