@@ -94,6 +94,17 @@ const aboutMe = {
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" />
     </a>
+    <!-- AWS -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS Logo" />
+    <!-- Jenkins -->
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" width="36" height="36" alt="Jenkins Logo" />
+    </a>
+    <!-- Jira -->
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="36" height="36" alt="Jira Logo" />
+    </a>
+
 </p>
 
 
