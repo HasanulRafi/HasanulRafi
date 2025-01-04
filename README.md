@@ -29,8 +29,8 @@ const aboutMe = {
 
 
 &nbsp;![](https://komarev.com/ghpvc/?username=HasanulRafi&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanulRafi&show_icons=true&locale=en" alt="HasanulRafi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanulRafi&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanulRafi&show_icons=true&locale=en&theme=dark" alt="HasanulRafi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanulRafi&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=dark" />
 </p>
 
 ### Skills  
