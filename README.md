@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```javascript
+javascript
 const aboutMe = {
     name: {
         first: "Mohammed Hasanul",
@@ -18,7 +18,7 @@ const aboutMe = {
         email: 'hasanulchowdhuryrafi@gmail.com',
     }
 }
-```
+
 
 ## 📊 GitHub Stats:
 
