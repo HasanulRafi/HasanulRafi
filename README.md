@@ -16,6 +16,7 @@ const aboutMe = {
     socials: {
         linkedin: 'https://www.linkedin.com/in/mohammed-hasanul-chowdhury',
         email: 'hasanulchowdhuryrafi@gmail.com',
+        phone: '+1-929-732-0862'
     }
 }
 ```
