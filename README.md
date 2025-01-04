@@ -38,6 +38,10 @@ const aboutMe = {
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
     </a>
+    <!-- React -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36" height="36" alt="React Logo" />
+    </a>
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -61,10 +65,6 @@ const aboutMe = {
     <!-- Scikit-learn -->
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
-    </a>
-    <!-- NumPy -->
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36" alt="NumPy" />
     </a>
     <!-- Docker -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -112,14 +112,7 @@ const aboutMe = {
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark Logo" />
     </a>
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36" height="36" alt="React Logo" />
-    </a>
-    <!-- Next.js -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="36" height="36" alt="Next.js Logo" />
-    </a>
+
 
 </p>
 
