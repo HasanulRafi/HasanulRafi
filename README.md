@@ -25,7 +25,7 @@ const aboutMe = {
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-stats-vanshb03.vercel.app/api?username=vanshb03&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
+    <img src="https://github-stats-HasanulRafi.vercel.app/api?username=vanshb03&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanulRafi&theme=dark&hide_border=true" style="margin-right: 10px;">
 </div>
 
