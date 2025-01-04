@@ -27,6 +27,12 @@ const aboutMe = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanulRafi&theme=dark&hide_border=true" style="margin-right: 10px;">
 </div>
 
+
+&nbsp;![](https://komarev.com/ghpvc/?username=HasanulRafi&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanulRafi&show_icons=true&locale=en" alt="HasanulRafi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanulRafi&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 ### Skills  
 
 <p align="left"> 
