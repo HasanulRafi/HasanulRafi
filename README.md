@@ -120,11 +120,6 @@ const aboutMe = {
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="36" height="36" alt="Next.js Logo" />
     </a>
-    <!-- Express.js -->
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="36" height="36" alt="Express.js Logo" />
-    </a>
-
 
 </p>
 
