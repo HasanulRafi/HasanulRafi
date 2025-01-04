@@ -104,6 +104,15 @@ const aboutMe = {
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="36" height="36" alt="Jira Logo" />
     </a>
+    <!-- Redis -->
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" width="36" height="36" alt="Redis Logo" />
+    </a>
+    <!-- Apache-Spark -->
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark Logo" />
+    </a>
+
 
 </p>
 
