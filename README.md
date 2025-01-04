@@ -118,9 +118,44 @@ const aboutMe = {
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark Logo" />
     </a>
-
-
 </p>
+
+### Frontend
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap" width="4%" title='Bootstrap'/>
+  <img src ="./images/sass.svg" alt="Sass" width="4%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6" width="4%" title='ES6'/>
+  <img src ="./images/d3.svg" alt="D3.js" width="4%" title='D3.js'/>
+  <img src ="./images/react.svg" alt="React" width="4%" title='React'/>
+  <img src ="./images/redux.svg" alt="Redux" width="4%" title='Redux'/>
+  <img src ="./images/gatsby.svg" alt="Gatsby" width="4%" title='Gatsby'/>
+</div>
+
+### Backend
+<div>
+  <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
+  <img src ="./images/express.svg" alt="Express" width="5%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="MongoDB" width="5%" title='MongoDB'/>
+  <img src ="./images/mysql.svg" alt="MySQL" width="5%" title='MySQL'/>
+  <img src ="./images/sqlite.svg" alt="SQLite" width="5%" title='SQLite'/>
+  <img src ="./images/python.svg" alt="Python" width="5%" title='Python'/>
+  <img src ="./images/flask.svg" alt="Flask" width="5%" title='Flask'/>
+  <img src ="./images/django.svg" alt="Django" width="5%" title='Django'/>
+</div>
+
+### Tools
+<div>
+  <img src ="./images/figma.svg" alt="Figma" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git" width="5%" title='Git'/>
+  <img src ="./images/eslint.svg" alt="ESLint" width="5%" title='ESLint'/>
+  <img src ="./images/webpack.svg" alt="Webpack" width="5%" title='Webpack'/>
+  <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/>
+</div>
+
 
 
 
