@@ -9,7 +9,7 @@ const aboutMe = {
     },
     experience: {
         curr: 'Building Open Source Projects',
-        prev: 'Software Engineer, AI/ML Engineer'
+        prev: 'Software Engineer, AI/ML Engineer, Data Scientist'
     },
     workingOn: 'Actively Interviewing',
     learning: 'How to build a large-scale, high-throughput platforms',
