@@ -12,7 +12,7 @@ const aboutMe = {
         prev: 'Software Engineer, AI/ML Engineer, Data Scientist'
     },
     workingOn: 'Actively Interviewing',
-    learning: 'How to build a large-scale, high-throughput platforms',
+    learning: 'How to build large-scale systems, high-throughput and low latency platforms',
     socials: {
         email: 'hasanulchowdhuryrafi@gmail.com',
         phone: '+1-929-732-0862'
